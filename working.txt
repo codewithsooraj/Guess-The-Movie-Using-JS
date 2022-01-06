@@ -1,0 +1,7 @@
+Instructions:
+Create the given Layout for the Movie ABCD2.
+In this test, on off the hint bulb according to result.
+If result of matching keyword is true then keep the hint turned on otherwise switched off respective hint. (For example if 2nd input is wrong then 2nd hint must be switched off. )
+
+Make sure entered letters should be in capital case.
+and match is based on both uppercase and lowercases.
